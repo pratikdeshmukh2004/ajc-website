@@ -101,6 +101,11 @@
   .footer-image {
     height: 300px;
   }
+
+  .footer-image img {
+    height: 100%;
+    object-position: center bottom;
+  }
 }
 
 @media (max-width: 480px) {

@@ -115,12 +115,16 @@
 
   .hero-right {
     position: absolute;
-    top: 40px;
+    top: 50px;
     right: 30px;
   }
 
   .hero-logo {
     font-size: 70px;
+  }
+
+  .hero-left {
+    margin-top: 80px;
   }
 
   .hero-services {
