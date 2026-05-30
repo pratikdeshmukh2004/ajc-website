@@ -76,8 +76,7 @@ function Work() {
       {/* Project Row 4 - Full width parallax */}
       <ProjectRow>
         <div className="project-full-image parallax-bg full-parallax">
-          <div className="project-full-image-labels">
-            <p className="project-status">COMING SOON</p>
+          <div className="project-full-image-labels" style={{ left: '58%', bottom: '20%' }}>
             <div className="project-marker"></div>
             <p className="project-name">HILL TRIBE</p>
             <p className="project-location">Ladakh</p>
@@ -112,7 +111,7 @@ function Work() {
       {/* Project Row 6 - Full width parallax */}
       <ProjectRow>
         <div className="project-full-image parallax-bg full-parallax" style={{ backgroundImage: "url('/images/IMG_6102.JPG')" }}>
-          <div className="project-full-image-labels">
+          <div className="project-full-image-labels" style={{ bottom: '45%', left: '59%', alignItems: 'flex-start' }}>
             <div className="project-marker"></div>
             <p className="project-name">HAVELI DHARAMPURA</p>
             <p className="project-location">Delhi</p>
@@ -147,9 +146,9 @@ function Work() {
       {/* Project Row 8 - Full width parallax */}
       <ProjectRow>
         <div className="project-full-image parallax-bg full-parallax" style={{ backgroundImage: "url('/images/196-DSC06248 3.png')" }}>
-          <div className="project-full-image-labels" style={{ bottom: '45%' }}>
+          <div className="project-full-image-labels" style={{ bottom: '45%', alignItems: 'flex-start' }}>
             <div className="project-marker"></div>
-            <p className="project-name">Ranjit svaasa</p>
+            <p className="project-name">Ranjit's svaasa</p>
             <p className="project-location">Amritsar</p>
           </div>
         </div>

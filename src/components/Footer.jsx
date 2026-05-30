@@ -11,16 +11,16 @@ function Footer() {
           <br />and sustaining the other"
         </p>
         <p className="footer-author">GULAMMOHAMMED SHEIKH</p>
-        <div className="footer-contact">
-          <span className="footer-contact-item">+91-9411924464</span>
-          <a href="https://linktr.ee/apeksha.consults" className="footer-contact-item footer-link" target="_blank" rel="noopener noreferrer">
-            linktr.ee/apeksha.consults
-          </a>
-          <a href="https://www.linkedin.com/in/apeksha-jain-92994814a/" className="footer-contact-item footer-link" target="_blank" rel="noopener noreferrer">
-            /apeksha-jain
-          </a>
-          <span className="footer-contact-item">Delhi, India</span>
-        </div>
+      </div>
+      <div className="footer-contact">
+        <span className="footer-contact-item">+91-9411924464</span>
+        <a href="https://linktr.ee/apeksha.consults" className="footer-contact-item footer-link" target="_blank" rel="noopener noreferrer">
+          linktr.ee/apeksha.consults
+        </a>
+        <a href="https://www.linkedin.com/in/apeksha-jain-92994814a/" className="footer-contact-item footer-link" target="_blank" rel="noopener noreferrer">
+          /apeksha-jain
+        </a>
+        <span className="footer-contact-item">Delhi, India</span>
       </div>
       <div className="footer-image">
         <img src="/images/IMG_6101.JPG" alt="Footer painting" />

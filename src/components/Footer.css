@@ -6,7 +6,7 @@
 
 .footer-quote-section {
   text-align: center;
-  padding: 0 200px;
+  padding: 80px 200px;
   margin-bottom: 40px;
 }
 
@@ -32,7 +32,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0;
+  padding: 40px 30px 15px;
   width: 100%;
 }
 

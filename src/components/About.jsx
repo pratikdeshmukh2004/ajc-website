@@ -35,7 +35,7 @@ function About() {
         <div className={`about-right ${journeyVisible ? 'slide-in-right' : 'hidden-right'}`} ref={journeyRef}>
           <div className="section-header">
             <div className="section-marker"></div>
-            <h2 className="section-title">THE JORUNEY</h2>
+            <h2 className="section-title">THE JOURNEY</h2>
           </div>
           <div className="journey-text">
             <p>
