@@ -46,10 +46,10 @@ function Work() {
           </div>
           <div className="project-split-right">
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6093.PNG" alt="Farmers House & Yakitori" />
+              <img src="/images/IMG_6093.PNG" alt="Farmers House & Yakitori" loading="lazy" decoding="async" />
             </div>
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6092.PNG" alt="Project" />
+              <img src="/images/IMG_6092.PNG" alt="Project" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -99,10 +99,10 @@ function Work() {
           </div>
           <div className="project-split-right">
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6098.PNG" alt="Assam Bengal Navigation" />
+              <img src="/images/IMG_6098.PNG" alt="Assam Bengal Navigation" loading="lazy" decoding="async" />
             </div>
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6097.PNG" alt="Project" />
+              <img src="/images/IMG_6097.PNG" alt="Project" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>
@@ -134,10 +134,10 @@ function Work() {
           </div>
           <div className="project-split-right">
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6103.PNG" alt="ALCHI KITCHEN" />
+              <img src="/images/IMG_6103.PNG" alt="ALCHI KITCHEN" loading="lazy" decoding="async" />
             </div>
             <div className="project-tall-image hover-zoom">
-              <img src="/images/IMG_6104.PNG" alt="Project" />
+              <img src="/images/IMG_6104.PNG" alt="Project" loading="lazy" decoding="async" />
             </div>
           </div>
         </div>

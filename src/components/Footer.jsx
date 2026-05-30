@@ -23,7 +23,7 @@ function Footer() {
         <span className="footer-contact-item">Delhi, India</span>
       </div>
       <div className="footer-image">
-        <img src="/images/IMG_6101.JPG" alt="Footer painting" />
+        <img src="/images/IMG_6101.JPG" alt="Footer painting" loading="lazy" decoding="async" />
       </div>
     </footer>
   )
