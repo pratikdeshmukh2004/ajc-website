@@ -6,9 +6,9 @@ function Footer() {
       <div className="footer-quote-section">
         <p className="footer-quote">
           "Living in India means living simultaneously in several cultures and times.
-          <br />One often walks into medieval situations and runs into primitive people.
-          <br />The past exists as a living entity alongside the present, each illuminating
-          <br />and sustaining the other"
+          <br /> One often walks into medieval situations and runs into primitive people.
+          <br /> The past exists as a living entity alongside the present, each illuminating
+          <br /> and sustaining the other."
         </p>
         <p className="footer-author">GULAMMOHAMMED SHEIKH</p>
       </div>

@@ -33,7 +33,9 @@ function Hero() {
           <p>VISUAL DESIGN</p>
           <p>WEB DESIGN</p>
           <p>BRAND STRATEGY</p>
-          <p>PACKAGING DESIGN</p>
+          <p>Creative Direction</p>
+          <p>Social Media Strategy</p>
+          <p>Experience Curation</p>
         </div>
       </div>
     </section>

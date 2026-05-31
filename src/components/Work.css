@@ -223,6 +223,10 @@
 
 /* Mobile Responsive */
 @media (max-width: 768px) {
+  .project-row {
+    margin-bottom: 20px;
+  }
+
   .project-full-width.two-col {
     flex-direction: column;
   }
