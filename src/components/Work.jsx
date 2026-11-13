@@ -143,7 +143,7 @@ function Work() {
           <div className="image-overlay-label left-label">
             <p className="project-status">COMING SOON</p>
           </div>
-          <div className="project-full-image-labels" style={{ left: '78.6%', bottom: '41%', alignItems: 'flex-start', transform: 'none' }}>
+          <div className="project-full-image-labels" style={{ left: 'auto', right: '11%', bottom: '41%', alignItems: 'flex-start', transform: 'none', whiteSpace: 'nowrap' }}>
             <div className="project-marker"></div>
             <p className="project-name">NEEMRANA HOTELs</p>
             <p className="project-location">Rajasthan</p>
