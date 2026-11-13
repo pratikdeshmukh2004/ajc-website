@@ -18,6 +18,23 @@
   transform: translateY(0);
 }
 
+/* Gap after every image row (matches Figma) */
+.project-full-width.two-col,
+.project-full-image {
+  margin-bottom: 50px;
+}
+
+/* No extra gap before the footer */
+.project-row:last-child .project-full-image {
+  margin-bottom: 0;
+}
+
+/* Split rows already have 40px top padding, so only add the remainder */
+.project-row:has(+ .project-row > .project-split-layout) .project-full-width.two-col,
+.project-row:has(+ .project-row > .project-split-layout) .project-full-image {
+  margin-bottom: 10px;
+}
+
 /* Two column full-width images */
 .project-full-width.two-col {
   display: flex;
@@ -225,6 +242,13 @@
 @media (max-width: 768px) {
   .project-row {
     margin-bottom: 20px;
+  }
+
+  .project-full-width.two-col,
+  .project-full-image,
+  .project-row:has(+ .project-row > .project-split-layout) .project-full-width.two-col,
+  .project-row:has(+ .project-row > .project-split-layout) .project-full-image {
+    margin-bottom: 0;
   }
 
   .project-full-width.two-col {
